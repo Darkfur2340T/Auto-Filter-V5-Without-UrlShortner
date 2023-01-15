@@ -18,15 +18,15 @@
     "website": "https://github.com/Cyniteofficial/Auto-Filter-V5",
     "repository": "https://github.com/Cyniteofficial/Auto-Filter-V5",
     "env": {
-        "BOT_TOKEN": {
-            "description": "Your bot token.",
+        "BOT_TOKEN":5684722027:AAHOA7HC7FdWDHXD13LnDfHVCrAqS02fNtM{
+            "description": "5684722027:AAHOA7HC7FdWDHXD13LnDfHVCrAqS02fNtM",
             "required": true
         },
-        "API_ID": {
+        "API_ID":25054546 {
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH":06eb898cce9cc09c2c265bee3dcbc464{
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
@@ -34,23 +34,23 @@
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
             "required": false
         },
-        "SUPPORT_GROUP": {
+        "SUPPORT_GROUP":-1001538080238 {
             "description": "Support Group Chat ID",
             "required": true
         },
-        "RQST_LOG_CHANNEL": {
+        "RQST_LOG_CHANNEL":-1001661394308 {
             "description": "request log channel ID",
             "required": true
         },
-        "FILE_CHANNEL": {
+        "FILE_CHANNEL":-1001867385864 {
             "description": "File Channel Id",
             "required": true
         },
-        "FILE_CHANNEL_LINK": {
+        "FILE_CHANNEL_LINK":https://t.me/+WjOCFp3s3ug4Yzdl {
             "description": "File Channel Link",
             "required": true
         },
-        "ADMINS": {
+        "ADMINS":5812272659 {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "required": true
         },
@@ -58,7 +58,7 @@
             "description": "Add some telegraph link of pictures .",
             "required": false
         },
-        "LOG_CHANNEL": {
+        "LOG_CHANNEL":-1001661394308 {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
             "required": true
         },
